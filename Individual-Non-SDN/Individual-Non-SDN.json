@@ -1,0 +1,2089 @@
+[
+  {
+    "ID": 26182,
+    "Last Name": "KAYAKIRAN",
+    "First Name": "Evren",
+    "Name": "Evren KAYAKIRAN",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "FSE-IR",
+    "Date of Birth": "1980-02-08 00:00:00",
+    "Remarks": null,
+    "Place of Birth": null,
+    "Citizenship": "Turkey",
+    "Nationality": null,
+    "Identifications": [
+      {
+        "ID": 26182,
+        "Passport": "U00242309 (Turkey)",
+        "Secondary sanctions risk": null,
+        "Gender": "Male"
+      }
+    ],
+    "Aliases": [],
+    "Addresses": [
+      {
+        "ID": 26182,
+        "Address": null,
+        "City": null,
+        "State/ Province": null,
+        "Postal Code": null,
+        "Country": "Turkey"
+      }
+    ]
+  },
+  {
+    "ID": 9687,
+    "Last Name": "AL-KHATIB",
+    "First Name": "Mahmoud",
+    "Name": "Mahmoud AL-KHATIB",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1972,
+    "Remarks": "HAMAS - Bethlehem",
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9687,
+        "Type": "aka",
+        "Name": "AL-KHATIB, Mahmoud Daoud Mahmoud"
+      }
+    ],
+    "Addresses": []
+  },
+  {
+    "ID": 9702,
+    "Last Name": "SALAMEH",
+    "First Name": "Salem",
+    "Name": "Salem SALAMEH",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1951,
+    "Remarks": "HAMAS - Der al-Balah",
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9702,
+        "Type": "aka",
+        "Name": "SALAMEH, Salem Ahmad Abdel Hadi"
+      }
+    ],
+    "Addresses": []
+  },
+  {
+    "ID": 9701,
+    "Last Name": "AL-JAMAL",
+    "First Name": "Abdul Rahman",
+    "Name": "Abdul Rahman AL-JAMAL",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1961,
+    "Remarks": "HAMAS - Der al-Balah",
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9701,
+        "Type": "aka",
+        "Name": "AL-JAMAL, Abdel Al-Rahman Yusef"
+      }
+    ],
+    "Addresses": []
+  },
+  {
+    "ID": 9707,
+    "Last Name": "AL-GHOUL",
+    "First Name": "Mohammed Faraj",
+    "Name": "Mohammed Faraj AL-GHOUL",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1957,
+    "Remarks": "HAMAS - Gaza",
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9707,
+        "Type": "aka",
+        "Name": "ELGHOUL, Mohammad Faraj Mahmood"
+      }
+    ],
+    "Addresses": []
+  },
+  {
+    "ID": 9703,
+    "Last Name": "SIAM",
+    "First Name": "Saeed",
+    "Name": "Saeed SIAM",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1959,
+    "Remarks": "HAMAS - Gaza",
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9703,
+        "Type": "aka",
+        "Name": "SEYAM, Said Mohammad"
+      },
+      {
+        "ID": 9703,
+        "Type": "aka",
+        "Name": "SIYAM, Saeed Mohammad"
+      }
+    ],
+    "Addresses": [
+      {
+        "ID": 9703,
+        "Address": null,
+        "City": "Gaza",
+        "State/ Province": null,
+        "Postal Code": null,
+        "Country": "Palestinian"
+      }
+    ]
+  },
+  {
+    "ID": 9706,
+    "Last Name": "AL-HAYYEH",
+    "First Name": "Khalil",
+    "Name": "Khalil AL-HAYYEH",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1960,
+    "Remarks": "HAMAS - Gaza",
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9706,
+        "Type": "aka",
+        "Name": "ELHYYA, Khalil Esmaeel"
+      }
+    ],
+    "Addresses": []
+  },
+  {
+    "ID": 9677,
+    "Last Name": "ABU SEIR",
+    "First Name": "Daoud",
+    "Name": "Daoud ABU SEIR",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1955,
+    "Remarks": "HAMAS - Hebron",
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9677,
+        "Type": "aka",
+        "Name": "ABU SAIR, Da'oud Kamal Da'oud"
+      }
+    ],
+    "Addresses": []
+  },
+  {
+    "ID": 9672,
+    "Last Name": "AL-QADI",
+    "First Name": "Samir",
+    "Name": "Samir AL-QADI",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1956,
+    "Remarks": "HAMAS - Hebron",
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9672,
+        "Type": "aka",
+        "Name": "AL-QADI, Sameer Saleh"
+      }
+    ],
+    "Addresses": []
+  },
+  {
+    "ID": 9669,
+    "Last Name": "SALHAB",
+    "First Name": "Azzam",
+    "Name": "Azzam SALHAB",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1956,
+    "Remarks": "HAMAS - Hebron",
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9669,
+        "Type": "aka",
+        "Name": "SALHAB, Azzam Numan Rahman"
+      },
+      {
+        "ID": 9669,
+        "Type": "aka",
+        "Name": "SALHAB TAMIMI, Azzam No'man Abdel Rahman"
+      }
+    ],
+    "Addresses": []
+  },
+  {
+    "ID": 9674,
+    "Last Name": "QFEISHEH",
+    "First Name": "Hatem",
+    "Name": "Hatem QFEISHEH",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1960,
+    "Remarks": "HAMAS - Hebron",
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9674,
+        "Type": "aka",
+        "Name": "KAFEESHEH, Hatem Rabah"
+      },
+      {
+        "ID": 9674,
+        "Type": "aka",
+        "Name": "QEFEISHA, Hatem"
+      },
+      {
+        "ID": 9674,
+        "Type": "aka",
+        "Name": "ABU ANED, Hadj Hatem"
+      }
+    ],
+    "Addresses": []
+  },
+  {
+    "ID": 9670,
+    "Last Name": "RAMADAN",
+    "First Name": "Nizar",
+    "Name": "Nizar RAMADAN",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1960,
+    "Remarks": "HAMAS - Hebron",
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9670,
+        "Type": "aka",
+        "Name": "RAMADAN, Nizar Abd-Al-Aziz"
+      }
+    ],
+    "Addresses": []
+  },
+  {
+    "ID": 9675,
+    "Last Name": "ZA'ARIR",
+    "First Name": "Basem",
+    "Name": "Basem ZA'ARIR",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1962,
+    "Remarks": "HAMAS - Hebron",
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9675,
+        "Type": "aka",
+        "Name": "ZAAREER, Basim Ahmad"
+      }
+    ],
+    "Addresses": []
+  },
+  {
+    "ID": 9676,
+    "Last Name": "AL-TAL",
+    "First Name": "Mohammed",
+    "Name": "Mohammed AL-TAL",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1965,
+    "Remarks": "HAMAS - Hebron",
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9676,
+        "Type": "aka",
+        "Name": "AL-TAL, Mohammad Ismail"
+      }
+    ],
+    "Addresses": []
+  },
+  {
+    "ID": 9688,
+    "Last Name": "YAHIA",
+    "First Name": "Khaled Abed",
+    "Name": "Khaled Abed YAHIA",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1959,
+    "Remarks": "HAMAS - Jenin",
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9688,
+        "Type": "aka",
+        "Name": "YEHIA, Khaled Said"
+      }
+    ],
+    "Addresses": [
+      {
+        "ID": 9688,
+        "Address": null,
+        "City": "Jenin",
+        "State/ Province": "West Bank",
+        "Postal Code": null,
+        "Country": "Palestinian"
+      }
+    ]
+  },
+  {
+    "ID": 9689,
+    "Last Name": "ABU HASSAN",
+    "First Name": "Khaled",
+    "Name": "Khaled ABU HASSAN",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1967,
+    "Remarks": "HAMAS - Jenin",
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9689,
+        "Type": "aka",
+        "Name": "ABOU HASSAN, Khaled Suleiman Fayez"
+      },
+      {
+        "ID": 9689,
+        "Type": "aka",
+        "Name": "ABU HASAN, Khalid Sulayman Fayiz"
+      }
+    ],
+    "Addresses": []
+  },
+  {
+    "ID": 9693,
+    "Last Name": "ABU SALEM",
+    "First Name": "Ibrahim",
+    "Name": "Ibrahim ABU SALEM",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1948,
+    "Remarks": "HAMAS - Jerusalem",
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9693,
+        "Type": "aka",
+        "Name": "ABOU SALEM, Ibrahim Said Hasan"
+      }
+    ],
+    "Addresses": []
+  },
+  {
+    "ID": 9695,
+    "Last Name": "AL-HUSSEINI",
+    "First Name": "Wael",
+    "Name": "Wael AL-HUSSEINI",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1962,
+    "Remarks": "HAMAS - Jerusalem",
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9695,
+        "Type": "aka",
+        "Name": "ABDUL RAHMAN, Wael Muhammed"
+      },
+      {
+        "ID": 9695,
+        "Type": "aka",
+        "Name": "ABED AL RAHMAAN, Wael Mohamad"
+      }
+    ],
+    "Addresses": []
+  },
+  {
+    "ID": 9692,
+    "Last Name": "ATTOUN",
+    "First Name": "Ahmad",
+    "Name": "Ahmad ATTOUN",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1968,
+    "Remarks": "HAMAS - Jerusalem",
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9692,
+        "Type": "aka",
+        "Name": "ATTOUN, Ahmad Mohammad Ahmad"
+      },
+      {
+        "ID": 9692,
+        "Type": "aka",
+        "Name": "ATOON, Ahmed Muhamad Ahmed"
+      }
+    ],
+    "Addresses": []
+  },
+  {
+    "ID": 9694,
+    "Last Name": "TUTAH",
+    "First Name": "Mohammed Saleh",
+    "Name": "Mohammed Saleh TUTAH",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1969,
+    "Remarks": "HAMAS - Jerusalem",
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9694,
+        "Type": "aka",
+        "Name": "TAWTAH, Mohammad Omran Saleh"
+      },
+      {
+        "ID": 9694,
+        "Type": "aka",
+        "Name": "TAWTA, Muhamed Umran Salih"
+      }
+    ],
+    "Addresses": []
+  },
+  {
+    "ID": 9681,
+    "Last Name": "AHMAD",
+    "First Name": "Ahmad Ali",
+    "Name": "Ahmad Ali AHMAD",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1940,
+    "Remarks": "HAMAS - Nablus",
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9681,
+        "Type": "aka",
+        "Name": "AHMAD, Ahmad Ali Ahmad"
+      }
+    ],
+    "Addresses": []
+  },
+  {
+    "ID": 9678,
+    "Last Name": "KHUDAIR",
+    "First Name": "Hamid Jabir",
+    "Name": "Hamid Jabir KHUDAIR",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1944,
+    "Remarks": "HAMAS - Nablus",
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9678,
+        "Type": "aka",
+        "Name": "KHUDAIR, Hamid Sulieman Jabir"
+      }
+    ],
+    "Addresses": []
+  },
+  {
+    "ID": 9679,
+    "Last Name": "YASIN",
+    "First Name": "Husni Bourini",
+    "Name": "Husni Bourini YASIN",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1955,
+    "Remarks": "HAMAS - Nablus",
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9679,
+        "Type": "aka",
+        "Name": "YASIN, Husni Mohammad Bourini"
+      }
+    ],
+    "Addresses": []
+  },
+  {
+    "ID": 9680,
+    "Last Name": "AMLI",
+    "First Name": "Riyad Ali",
+    "Name": "Riyad Ali AMLI",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1961,
+    "Remarks": "HAMAS - Nablus",
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9680,
+        "Type": "aka",
+        "Name": "AMLI, Riyad Ali Mustafa"
+      }
+    ],
+    "Addresses": []
+  },
+  {
+    "ID": 9709,
+    "Last Name": "UDWAN",
+    "First Name": "Atef",
+    "Name": "Atef UDWAN",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1952,
+    "Remarks": "HAMAS - Northern Gaza",
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9709,
+        "Type": "aka",
+        "Name": "ADWAN, Atef Ibrahim"
+      },
+      {
+        "ID": 9709,
+        "Type": "aka",
+        "Name": "IDWAN, Atef Ibrahim Mohammad"
+      }
+    ],
+    "Addresses": []
+  },
+  {
+    "ID": 9712,
+    "Last Name": "SHIHAB",
+    "First Name": "Mohammed",
+    "Name": "Mohammed SHIHAB",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1956,
+    "Remarks": "HAMAS - Northern Gaza",
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9712,
+        "Type": "aka",
+        "Name": "SHEHAB, Mohamed Abed Hadi Rahman"
+      }
+    ],
+    "Addresses": []
+  },
+  {
+    "ID": 9711,
+    "Last Name": "AL-ASHQAR",
+    "First Name": "Ismail",
+    "Name": "Ismail AL-ASHQAR",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1962,
+    "Remarks": "HAMAS - Northern Gaza",
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9711,
+        "Type": "aka",
+        "Name": "AL-ALASHQAR, Ismail Abdallatif"
+      }
+    ],
+    "Addresses": []
+  },
+  {
+    "ID": 9710,
+    "Last Name": "AL-SHARAFI",
+    "First Name": "Yousef",
+    "Name": "Yousef AL-SHARAFI",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1963,
+    "Remarks": "HAMAS - Northern Gaza",
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9710,
+        "Type": "aka",
+        "Name": "AL-SHRAFI, Yousef Awad"
+      }
+    ],
+    "Addresses": []
+  },
+  {
+    "ID": 9708,
+    "Last Name": "AL-HABAL",
+    "First Name": "Mushir",
+    "Name": "Mushir AL-HABAL",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1978,
+    "Remarks": "HAMAS - Northern Gaza",
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9708,
+        "Type": "aka",
+        "Name": "ELHABEL, Moshir Omar"
+      },
+      {
+        "ID": 9708,
+        "Type": "aka",
+        "Name": "EL-MASRI, Moshir"
+      }
+    ],
+    "Addresses": []
+  },
+  {
+    "ID": 9685,
+    "Last Name": "MUBARAK",
+    "First Name": "Ahmad 'Abd al-Aziz",
+    "Name": "Ahmad 'Abd al-Aziz MUBARAK",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1962,
+    "Remarks": "HAMAS - Ramallah",
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9685,
+        "Type": "aka",
+        "Name": "MUBARAK, Ahmad Abdel Aziz Saleh"
+      }
+    ],
+    "Addresses": []
+  },
+  {
+    "ID": 9696,
+    "Last Name": "ABDUL JAWAD",
+    "First Name": "Naser",
+    "Name": "Naser ABDUL JAWAD",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1965,
+    "Remarks": "HAMAS - Salfit",
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9696,
+        "Type": "aka",
+        "Name": "ABDEL JAWAD, Nasir Abdullah Odeh"
+      }
+    ],
+    "Addresses": []
+  },
+  {
+    "ID": 9691,
+    "Last Name": "RADDAD",
+    "First Name": "Riyad",
+    "Name": "Riyad RADDAD",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1960,
+    "Remarks": "HAMAS - Tulkarem",
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9691,
+        "Type": "aka",
+        "Name": "RADAD, Riyad Mahmoud Sa'eed"
+      },
+      {
+        "ID": 9691,
+        "Type": "aka",
+        "Name": "AL-SEDAWI, Riyad Radad"
+      }
+    ],
+    "Addresses": []
+  },
+  {
+    "ID": 9690,
+    "Last Name": "ZEIDAN",
+    "First Name": "Abdul Rahman Fahmi",
+    "Name": "Abdul Rahman Fahmi ZEIDAN",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1960,
+    "Remarks": "HAMAS - Tulkarem",
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9690,
+        "Type": "aka",
+        "Name": "ZEIDAN, Abdel Rahman Fahmi Rahman"
+      }
+    ],
+    "Addresses": []
+  },
+  {
+    "ID": 9668,
+    "Last Name": "DWEIK",
+    "First Name": "Aziz",
+    "Name": "Aziz DWEIK",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1948,
+    "Remarks": "HAMAS - Hebron",
+    "Place of Birth": "POB Al-Khalil, Hebron",
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9668,
+        "Type": "aka",
+        "Name": "DWAIK, Aziz Salem Mustada"
+      }
+    ],
+    "Addresses": []
+  },
+  {
+    "ID": 9686,
+    "Last Name": "THWEIB",
+    "First Name": "Khaled Tafish",
+    "Name": "Khaled Tafish THWEIB",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1964,
+    "Remarks": "HAMAS - Bethlehem",
+    "Place of Birth": "POB Bethlehem",
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9686,
+        "Type": "aka",
+        "Name": "THOUAIB, Khaled Ibrahim Tafish"
+      },
+      {
+        "ID": 9686,
+        "Type": "aka",
+        "Name": "DWEIB, Khaled Tafesh"
+      }
+    ],
+    "Addresses": []
+  },
+  {
+    "ID": 9671,
+    "Last Name": "RJOUB",
+    "First Name": "Nayef",
+    "Name": "Nayef RJOUB",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1958,
+    "Remarks": "HAMAS - Hebron",
+    "Place of Birth": "POB Dura, West Bank",
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9671,
+        "Type": "aka",
+        "Name": "RAJOUB, Naif Mahmod"
+      }
+    ],
+    "Addresses": []
+  },
+  {
+    "ID": 9704,
+    "Last Name": "BAHAR",
+    "First Name": "Ahmad",
+    "Name": "Ahmad BAHAR",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1949,
+    "Remarks": "HAMAS - Gaza",
+    "Place of Birth": "POB Gaza",
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9704,
+        "Type": "aka",
+        "Name": "BAHAR, Ahmed Mohamed"
+      }
+    ],
+    "Addresses": []
+  },
+  {
+    "ID": 9705,
+    "Last Name": "SALEH",
+    "First Name": "Jamal",
+    "Name": "Jamal SALEH",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1958,
+    "Remarks": "HAMAS - Gaza",
+    "Place of Birth": "POB Gaza",
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9705,
+        "Type": "aka",
+        "Name": "NASSER, Jamal Talab Mohammad Saleh"
+      },
+      {
+        "ID": 9705,
+        "Type": "aka",
+        "Name": "SALEH, Jamal Talab"
+      }
+    ],
+    "Addresses": []
+  },
+  {
+    "ID": 9647,
+    "Last Name": "ZAHHAR",
+    "First Name": "Mahmoud Khaled",
+    "Name": "Mahmoud Khaled ZAHHAR",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC; SDGT",
+    "Date of Birth": 1945,
+    "Remarks": "Linked To: HAMAS",
+    "Place of Birth": "POB Gaza Strip",
+    "Citizenship": null,
+    "Nationality": "Palestinian",
+    "Identifications": [
+      {
+        "ID": 9647,
+        "Passport": null,
+        "Secondary sanctions risk": "section 1(b) of Executive Order 13224, as amended by Executive Order 13886",
+        "Gender": "Male"
+      }
+    ],
+    "Aliases": [
+      {
+        "ID": 9647,
+        "Type": "aka",
+        "Name": "AL ZAHAR, Mahmoud Khaled"
+      },
+      {
+        "ID": 9647,
+        "Type": "aka",
+        "Name": "ZAHAR, Mahmoud"
+      },
+      {
+        "ID": 9647,
+        "Type": "aka",
+        "Name": "AL-ZAHAR, Mahmoud"
+      }
+    ],
+    "Addresses": [
+      {
+        "ID": 9647,
+        "Address": null,
+        "City": null,
+        "State/ Province": null,
+        "Postal Code": null,
+        "Country": "Region: Gaza"
+      }
+    ]
+  },
+  {
+    "ID": 9684,
+    "Last Name": "MUSLEH",
+    "First Name": "Mahmoud",
+    "Name": "Mahmoud MUSLEH",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1941,
+    "Remarks": "HAMAS - Ramallah",
+    "Place of Birth": "POB Haifa, Israel",
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9684,
+        "Type": "aka",
+        "Name": "MUSLEH, Mahmoud Ibrahim Mahmoud"
+      }
+    ],
+    "Addresses": []
+  },
+  {
+    "ID": 9652,
+    "Last Name": "ZBOUN",
+    "First Name": "Anwar Mohammed",
+    "Name": "Anwar Mohammed ZBOUN",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1968,
+    "Remarks": null,
+    "Place of Birth": "POB Ilar",
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9652,
+        "Type": "aka",
+        "Name": "AL-ZBOUN, Anwar Muhammad"
+      }
+    ],
+    "Addresses": [
+      {
+        "ID": 9652,
+        "Address": null,
+        "City": "Bethlehem",
+        "State/ Province": "West Bank",
+        "Postal Code": null,
+        "Country": "Palestinian"
+      }
+    ]
+  },
+  {
+    "ID": 9673,
+    "Last Name": "ABU JHEISHEH",
+    "First Name": "Mohammed",
+    "Name": "Mohammed ABU JHEISHEH",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1955,
+    "Remarks": "HAMAS - Hebron",
+    "Place of Birth": "POB Izna, Hebron",
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9673,
+        "Type": "aka",
+        "Name": "ABU JHESHEH, Mohammad Mutlaq"
+      },
+      {
+        "ID": 9673,
+        "Type": "aka",
+        "Name": "ABU JEHEISHA, Mohammed"
+      }
+    ],
+    "Addresses": []
+  },
+  {
+    "ID": 9641,
+    "Last Name": "AL-SHANTI",
+    "First Name": "Jamileh Abdullah",
+    "Name": "Jamileh Abdullah AL-SHANTI",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1955,
+    "Remarks": null,
+    "Place of Birth": "POB Jabalia Camp",
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9641,
+        "Type": "aka",
+        "Name": "EL-SHANTI, Jameela Abdallah"
+      },
+      {
+        "ID": 9641,
+        "Type": "aka",
+        "Name": "AL SHANTEE, Jamila Abed Allah"
+      }
+    ],
+    "Addresses": [
+      {
+        "ID": 9641,
+        "Address": null,
+        "City": "Gaza",
+        "State/ Province": null,
+        "Postal Code": null,
+        "Country": "Palestinian"
+      }
+    ]
+  },
+  {
+    "ID": 9659,
+    "Last Name": "HAMMAD",
+    "First Name": "Fathi Ahmad Mohammad",
+    "Name": "Fathi Ahmad Mohammad HAMMAD",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC; SDGT",
+    "Date of Birth": 1961,
+    "Remarks": null,
+    "Place of Birth": "POB Jabaliya, Gaza Strip",
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9659,
+        "Type": "aka",
+        "Name": "HAMMAD, Fathi Ahmad"
+      },
+      {
+        "ID": 9659,
+        "Type": "aka",
+        "Name": "HAMAD, Fathy Ahmed"
+      },
+      {
+        "ID": 9659,
+        "Type": "aka",
+        "Name": "HAMAD, Fathi"
+      }
+    ],
+    "Addresses": [
+      {
+        "ID": 9659,
+        "Address": null,
+        "City": "Jabaliya",
+        "State/ Province": null,
+        "Postal Code": null,
+        "Country": "Region: Gaza"
+      }
+    ]
+  },
+  {
+    "ID": 9698,
+    "Last Name": "NAJJAR",
+    "First Name": "Khamis",
+    "Name": "Khamis NAJJAR",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1949,
+    "Remarks": "HAMAS - Khan Younis",
+    "Place of Birth": "POB Khan Younis",
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9698,
+        "Type": "aka",
+        "Name": "NAJJAR, Khamis Jawdat Khamis"
+      }
+    ],
+    "Addresses": []
+  },
+  {
+    "ID": 9700,
+    "Last Name": "AL-ASTAL",
+    "First Name": "Younes",
+    "Name": "Younes AL-ASTAL",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1956,
+    "Remarks": "HAMAS - Khan Younis",
+    "Place of Birth": "POB Khan Younis",
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9700,
+        "Type": "aka",
+        "Name": "EL-ASTAL, Younis Mohe-eldeen Fayez"
+      }
+    ],
+    "Addresses": []
+  },
+  {
+    "ID": 9699,
+    "Last Name": "AL-BARDAWIL",
+    "First Name": "Salah",
+    "Name": "Salah AL-BARDAWIL",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1959,
+    "Remarks": "HAMAS - Khan Younis",
+    "Place of Birth": "POB Khan Younis",
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9699,
+        "Type": "aka",
+        "Name": "EL BARDAWIL, Salah Mohammad"
+      }
+    ],
+    "Addresses": []
+  },
+  {
+    "ID": 9643,
+    "Last Name": "MANSOUR",
+    "First Name": "Yasser Daoud",
+    "Name": "Yasser Daoud MANSOUR",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1967,
+    "Remarks": null,
+    "Place of Birth": "POB Nablus, West Bank",
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [],
+    "Addresses": []
+  },
+  {
+    "ID": 9683,
+    "Last Name": "HAMDAN",
+    "First Name": "Fadel",
+    "Name": "Fadel HAMDAN",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1953,
+    "Remarks": "HAMAS - Ramallah",
+    "Place of Birth": "POB Ramallah, West Bank",
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9683,
+        "Type": "aka",
+        "Name": "HAMDAN, Fadel Mohammad Saleh"
+      }
+    ],
+    "Addresses": []
+  },
+  {
+    "ID": 9651,
+    "Last Name": "QAR'AWI",
+    "First Name": "Fathi Mohammed",
+    "Name": "Fathi Mohammed QAR'AWI",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1958,
+    "Remarks": null,
+    "Place of Birth": "POB Ramin, West Bank",
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9651,
+        "Type": "aka",
+        "Name": "QARAWI, Mohammed Fathi"
+      }
+    ],
+    "Addresses": [
+      {
+        "ID": 9651,
+        "Address": null,
+        "City": "Tulkarim",
+        "State/ Province": "West Bank",
+        "Postal Code": null,
+        "Country": "Palestinian"
+      }
+    ]
+  },
+  {
+    "ID": 9639,
+    "Last Name": "HANIYA",
+    "First Name": "Ismail Abdul Salah",
+    "Name": "Ismail Abdul Salah HANIYA",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1962,
+    "Remarks": null,
+    "Place of Birth": "POB Shati",
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9639,
+        "Type": "aka",
+        "Name": "HANIYA, Ismail"
+      },
+      {
+        "ID": 9639,
+        "Type": "aka",
+        "Name": "HANIYYA, Ismaeel"
+      }
+    ],
+    "Addresses": []
+  },
+  {
+    "ID": 9697,
+    "Last Name": "ABU TOS",
+    "First Name": "Khaled",
+    "Name": "Khaled ABU TOS",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1949,
+    "Remarks": "HAMAS - Toubas",
+    "Place of Birth": "POB Tulkarem, West Bank",
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9697,
+        "Type": "aka",
+        "Name": "ABU QOUS, Khalid Hamad Hamid"
+      }
+    ],
+    "Addresses": []
+  },
+  {
+    "ID": 9640,
+    "Last Name": "ABU TEIR",
+    "First Name": "Mohammed",
+    "Name": "Mohammed ABU TEIR",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1951,
+    "Remarks": null,
+    "Place of Birth": "POB Umm Tuba",
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9640,
+        "Type": "aka",
+        "Name": "ABU TAIR, Mohammed Mahmud"
+      },
+      {
+        "ID": 9640,
+        "Type": "aka",
+        "Name": "ABOU TAYR, Mohammad Mahmoud"
+      }
+    ],
+    "Addresses": []
+  },
+  {
+    "ID": 9716,
+    "Last Name": "KARIM",
+    "First Name": "Qais Abdul",
+    "Name": "Qais Abdul KARIM",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": null,
+    "Remarks": "DFLP",
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [],
+    "Addresses": []
+  },
+  {
+    "ID": 9648,
+    "Last Name": "HASAN DUKHAN",
+    "First Name": "Abdul Fattah",
+    "Name": "Abdul Fattah HASAN DUKHAN",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1936,
+    "Remarks": null,
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9648,
+        "Type": "aka",
+        "Name": "HASAN DOUKHAN, Abdul Fattah"
+      }
+    ],
+    "Addresses": []
+  },
+  {
+    "ID": 9661,
+    "Last Name": "ABU MSAMEH",
+    "First Name": "Sayyed Salem",
+    "Name": "Sayyed Salem ABU MSAMEH",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1948,
+    "Remarks": null,
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9661,
+        "Type": "aka",
+        "Name": "ABU MUSAMEH, Sayed Salem"
+      }
+    ],
+    "Addresses": [
+      {
+        "ID": 9661,
+        "Address": null,
+        "City": "Rafah",
+        "State/ Province": "West Bank",
+        "Postal Code": null,
+        "Country": "Palestinian"
+      }
+    ]
+  },
+  {
+    "ID": 9660,
+    "Last Name": "FARHAT",
+    "First Name": "Mariam Mohammed",
+    "Name": "Mariam Mohammed FARHAT",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1949,
+    "Remarks": null,
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [],
+    "Addresses": [
+      {
+        "ID": 9660,
+        "Address": null,
+        "City": "Gaza",
+        "State/ Province": null,
+        "Postal Code": null,
+        "Country": "Palestinian"
+      }
+    ]
+  },
+  {
+    "ID": 9666,
+    "Last Name": "ABU HALABIYYE",
+    "First Name": "Ahmad Yousef",
+    "Name": "Ahmad Yousef ABU HALABIYYE",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1952,
+    "Remarks": null,
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [],
+    "Addresses": [
+      {
+        "ID": 9666,
+        "Address": null,
+        "City": "Gaza City",
+        "State/ Province": "Gaza",
+        "Postal Code": null,
+        "Country": "Palestinian"
+      }
+    ]
+  },
+  {
+    "ID": 9650,
+    "Last Name": "SALEH",
+    "First Name": "Mariam Mahmoud",
+    "Name": "Mariam Mahmoud SALEH",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1952,
+    "Remarks": null,
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [],
+    "Addresses": [
+      {
+        "ID": 9650,
+        "Address": null,
+        "City": "Ramallah",
+        "State/ Province": "West Bank",
+        "Postal Code": null,
+        "Country": "Palestinian"
+      }
+    ]
+  },
+  {
+    "ID": 9657,
+    "Last Name": "BADER",
+    "First Name": "Mohammed Maher Yousef",
+    "Name": "Mohammed Maher Yousef BADER",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1956,
+    "Remarks": null,
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [],
+    "Addresses": [
+      {
+        "ID": 9657,
+        "Address": null,
+        "City": "Hebron",
+        "State/ Province": "West Bank",
+        "Postal Code": null,
+        "Country": "Palestinian"
+      }
+    ]
+  },
+  {
+    "ID": 9662,
+    "Last Name": "ABU RAS",
+    "First Name": "Marwan Mohammed",
+    "Name": "Marwan Mohammed ABU RAS",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1958,
+    "Remarks": null,
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9662,
+        "Type": "aka",
+        "Name": "ABOU RAAS, Merwan Muhammed"
+      }
+    ],
+    "Addresses": [
+      {
+        "ID": 9662,
+        "Address": null,
+        "City": "Gaza City",
+        "State/ Province": "Gaza",
+        "Postal Code": null,
+        "Country": "Palestinian"
+      }
+    ]
+  },
+  {
+    "ID": 9656,
+    "Last Name": "AL-ABADSAH",
+    "First Name": "Yahia Abdul Aziz",
+    "Name": "Yahia Abdul Aziz AL-ABADSAH",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1958,
+    "Remarks": null,
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9656,
+        "Type": "aka",
+        "Name": "EL ABADSA, Yehia Abdul Aziz"
+      }
+    ],
+    "Addresses": [
+      {
+        "ID": 9656,
+        "Address": null,
+        "City": "Khan Younis",
+        "State/ Province": "West Bank",
+        "Postal Code": null,
+        "Country": "Palestinian"
+      }
+    ]
+  },
+  {
+    "ID": 9654,
+    "Last Name": "MATAR",
+    "First Name": "Omar Mahmoud",
+    "Name": "Omar Mahmoud MATAR",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1958,
+    "Remarks": null,
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [],
+    "Addresses": [
+      {
+        "ID": 9654,
+        "Address": null,
+        "City": "Salfit",
+        "State/ Province": "West Bank",
+        "Postal Code": null,
+        "Country": "Palestinian"
+      }
+    ]
+  },
+  {
+    "ID": 9642,
+    "Last Name": "NU'MAN ALAEDDIN",
+    "First Name": "Mohammed Jamal",
+    "Name": "Mohammed Jamal NU'MAN ALAEDDIN",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1959,
+    "Remarks": null,
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9642,
+        "Type": "aka",
+        "Name": "ALA AL DIN, Mohamad Nouman"
+      },
+      {
+        "ID": 9642,
+        "Type": "aka",
+        "Name": "AL NATSHEH, Mohammed"
+      }
+    ],
+    "Addresses": [
+      {
+        "ID": 9642,
+        "Address": null,
+        "City": "Hebron",
+        "State/ Province": "West Bank",
+        "Postal Code": null,
+        "Country": "Palestinian"
+      }
+    ]
+  },
+  {
+    "ID": 9644,
+    "Last Name": "RABAI",
+    "First Name": "Khalil Musa",
+    "Name": "Khalil Musa RABAI",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1959,
+    "Remarks": null,
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9644,
+        "Type": "aka",
+        "Name": "RABBAI, Khalil Mussa"
+      }
+    ],
+    "Addresses": []
+  },
+  {
+    "ID": 9655,
+    "Last Name": "MANSOUR",
+    "First Name": "Muna Salim Saleh",
+    "Name": "Muna Salim Saleh MANSOUR",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1961,
+    "Remarks": null,
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9655,
+        "Type": "aka",
+        "Name": "MANSOUR, Muna Salem"
+      }
+    ],
+    "Addresses": [
+      {
+        "ID": 9655,
+        "Address": null,
+        "City": "Nablus",
+        "State/ Province": "West Bank",
+        "Postal Code": null,
+        "Country": "Palestinian"
+      }
+    ]
+  },
+  {
+    "ID": 9646,
+    "Last Name": "AL-RAMAHI",
+    "First Name": "Mahmoud Ahmad",
+    "Name": "Mahmoud Ahmad AL-RAMAHI",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1963,
+    "Remarks": null,
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [],
+    "Addresses": [
+      {
+        "ID": 9646,
+        "Address": null,
+        "City": "Ramallah",
+        "State/ Province": "West Bank",
+        "Postal Code": null,
+        "Country": "Palestinian"
+      }
+    ]
+  },
+  {
+    "ID": 9658,
+    "Last Name": "DARAGHMEH",
+    "First Name": "Ayman Hussein",
+    "Name": "Ayman Hussein DARAGHMEH",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1963,
+    "Remarks": null,
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [],
+    "Addresses": [
+      {
+        "ID": 9658,
+        "Address": null,
+        "City": "Tubas",
+        "State/ Province": "West Bank",
+        "Postal Code": null,
+        "Country": "Palestinian"
+      }
+    ]
+  },
+  {
+    "ID": 9663,
+    "Last Name": "HALAYQAH",
+    "First Name": "Samira Abdullah",
+    "Name": "Samira Abdullah HALAYQAH",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1964,
+    "Remarks": null,
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9663,
+        "Type": "aka",
+        "Name": "HALAYQA, Sameera Abed Allah"
+      }
+    ],
+    "Addresses": [
+      {
+        "ID": 9663,
+        "Address": null,
+        "City": "Hebron",
+        "State/ Province": "West Bank",
+        "Postal Code": null,
+        "Country": "Palestinian"
+      }
+    ]
+  },
+  {
+    "ID": 9664,
+    "Last Name": "ISKEIK",
+    "First Name": "Jamal Ismail",
+    "Name": "Jamal Ismail ISKEIK",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1964,
+    "Remarks": null,
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [],
+    "Addresses": [
+      {
+        "ID": 9664,
+        "Address": null,
+        "City": "Gaza",
+        "State/ Province": null,
+        "Postal Code": null,
+        "Country": "Palestinian"
+      }
+    ]
+  },
+  {
+    "ID": 9667,
+    "Last Name": "FUQAHA",
+    "First Name": "Abdul Jaber Mustafa",
+    "Name": "Abdul Jaber Mustafa FUQAHA",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1966,
+    "Remarks": null,
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [],
+    "Addresses": [
+      {
+        "ID": 9667,
+        "Address": null,
+        "City": "Ramallah",
+        "State/ Province": "West Bank",
+        "Postal Code": null,
+        "Country": "Palestinian"
+      }
+    ]
+  },
+  {
+    "ID": 9649,
+    "Last Name": "DAHBOUR",
+    "First Name": "Ibrahim Mohammed",
+    "Name": "Ibrahim Mohammed DAHBOUR",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1968,
+    "Remarks": null,
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [],
+    "Addresses": [
+      {
+        "ID": 9649,
+        "Address": null,
+        "City": "Jenin",
+        "State/ Province": "West Bank",
+        "Postal Code": null,
+        "Country": "Palestinian"
+      }
+    ]
+  },
+  {
+    "ID": 9645,
+    "Last Name": "AL-QREINAWI",
+    "First Name": "Huda Naim",
+    "Name": "Huda Naim AL-QREINAWI",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1969,
+    "Remarks": null,
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9645,
+        "Type": "aka",
+        "Name": "AL QRENAWI, Houda Naim"
+      }
+    ],
+    "Addresses": [
+      {
+        "ID": 9645,
+        "Address": null,
+        "City": "Gaza",
+        "State/ Province": null,
+        "Postal Code": null,
+        "Country": "Palestinian"
+      }
+    ]
+  },
+  {
+    "ID": 9653,
+    "Last Name": "NOFAL",
+    "First Name": "Imad Mahmoud",
+    "Name": "Imad Mahmoud NOFAL",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1970,
+    "Remarks": null,
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9653,
+        "Type": "aka",
+        "Name": "NAWFAL, Imad Mahmoud"
+      }
+    ],
+    "Addresses": [
+      {
+        "ID": 9653,
+        "Address": null,
+        "City": "Qalqilya",
+        "State/ Province": "West Bank",
+        "Postal Code": null,
+        "Country": "Palestinian"
+      }
+    ]
+  },
+  {
+    "ID": 9665,
+    "Last Name": "ROUMANIN",
+    "First Name": "Ali Salim",
+    "Name": "Ali Salim ROUMANIN",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": 1971,
+    "Remarks": null,
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [],
+    "Addresses": [
+      {
+        "ID": 9665,
+        "Address": null,
+        "City": "Oja",
+        "State/ Province": "West Bank",
+        "Postal Code": null,
+        "Country": "Palestinian"
+      }
+    ]
+  },
+  {
+    "ID": 9682,
+    "Last Name": "YOUSEF",
+    "First Name": "Hasan",
+    "Name": "Hasan YOUSEF",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": null,
+    "Remarks": "HAMAS - Ramallah",
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [
+      {
+        "ID": 9682,
+        "Type": "aka",
+        "Name": "DAR KHALIL, Hasan Youssef Daoud"
+      },
+      {
+        "ID": 9682,
+        "Type": "aka",
+        "Name": "DAR KHALIL, Hassan Yousef Dawoud"
+      }
+    ],
+    "Addresses": []
+  },
+  {
+    "ID": 9715,
+    "Last Name": "JARRAR",
+    "First Name": "Khaledah",
+    "Name": "Khaledah JARRAR",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": null,
+    "Remarks": "PFLP",
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [],
+    "Addresses": []
+  },
+  {
+    "ID": 9714,
+    "Last Name": "MAJDALAWI",
+    "First Name": "Jamil",
+    "Name": "Jamil MAJDALAWI",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": null,
+    "Remarks": "PFLP",
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [],
+    "Addresses": []
+  },
+  {
+    "ID": 9713,
+    "Last Name": "SA'DAT",
+    "First Name": "Ahmad",
+    "Name": "Ahmad SA'DAT",
+    "List": "Individual",
+    "Type": "Non-SDN",
+    "Program": "NS-PLC",
+    "Date of Birth": null,
+    "Remarks": "PFLP",
+    "Place of Birth": null,
+    "Citizenship": null,
+    "Nationality": null,
+    "Identifications": [],
+    "Aliases": [],
+    "Addresses": []
+  }
+]

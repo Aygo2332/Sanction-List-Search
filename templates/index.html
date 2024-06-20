@@ -1,0 +1,89 @@
+{% extends 'base.html' %} {% block title %}Search Sanctions{% endblock %} {%
+block content %}
+<div class="container mt-4">
+  <h1>Sanctions Search</h1>
+  <form method="POST">
+    <div class="form-group">
+      <label for="name">Name:</label>
+      <input type="text" id="name" name="Name" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Search</button>
+  </form>
+  {% if result_entity_sdn %}
+  <div class="mt-4">
+    <h2>Search Results - Entity SDN</h2>
+    <p>
+      Total Number of Records found in Entity SDN: {{ result_entity_sdn|length
+      }}
+    </p>
+    <div class="table-responsive">
+      <table class="table table-striped" id="entity-sdn-table">
+        <thead>
+          <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>List</th>
+            <th>Type</th>
+            <th>Program</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for record in result_entity_sdn %}
+          <tr>
+            <td>{{ record.ID }}</td>
+            <td>
+              <a href="/individual_details/{{ record.ID }}"
+                >{{ record.Name }}</a
+              >
+            </td>
+            <td>{{ record.List }}</td>
+            <td>{{ record.Type }}</td>
+            <td>{{ record.Program }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+  {% endif %} {% if result_individual_non_sdn %}
+  <div class="mt-4">
+    <h2>Search Results - Individual Non-SDN</h2>
+    <p>
+      Total Number of Records found in Individual Non-SDN: {{
+      result_individual_non_sdn|length }}
+    </p>
+    <div class="table-responsive">
+      <table class="table table-striped" id="individual-non-sdn-table">
+        <thead>
+          <tr>
+            <th>ID</th>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>List</th>
+            <th>Type</th>
+            <th>Program</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for record in result_individual_non_sdn %}
+          <tr>
+            <td>{{ record.ID }}</td>
+            <td>
+              <a href="/individual_details/{{record.ID}}"
+                >{{record['First Name']}}</a
+              >
+            </td>
+            <td>{{ record['Last Name'] }}</td>
+            <td>{{ record.List }}</td>
+            <td>{{ record.Type }}</td>
+            <td>{{ record.Program }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+  {% endif %}
+</div>
+<script src="{{ url_for('static', filename='base.js') }}"></script>
+{% endblock %}

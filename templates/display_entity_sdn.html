@@ -1,0 +1,42 @@
+{% extends 'base.html' %} {% block title %}{{title}}{% endblock %} {% block
+content %}
+<div class="container">
+  <div class="table-container mt-4">
+    <h2>{{ title }}</h2>
+    {% if records %}
+    <p>Total number of records: {{ records|length }}</p>
+    <div class="table-responsive">
+      <table class="table table-striped">
+        <thead>
+          <tr>
+            <th class="sortable" data-column="ID">ID</th>
+            <th class="sortable" data-column="Name">Name</th>
+            <th class="sortable" data-column="List">List</th>
+            <th class="sortable" data-column="Type">Type</th>
+            <th class="sortable" data-column="Program">Program</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for record in records %}
+          <tr>
+            <td>{{ record.ID }}</td>
+            <td>
+              <a href="/individual_details/{{ record.ID }}"
+                >{{ record.Name }}</a
+              >
+            </td>
+            <td>{{ record.List }}</td>
+            <td>{{ record.Type }}</td>
+            <td>{{ record.Program }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+    {% else %}
+    <p>No records found.</p>
+    {% endif %}
+  </div>
+</div>
+<script src="{{ url_for('static', filename='base.js') }}"></script>
+{% endblock %}

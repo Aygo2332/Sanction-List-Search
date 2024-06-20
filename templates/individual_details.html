@@ -1,0 +1,224 @@
+{%extends'base.html'%}{%block title%}Individual Sanction Details{%endblock%}{%
+block content%}
+<div class="container mt-4">
+  <h1>Sanction Details</h1>
+  {% if entity_sdn_record %}
+  <br />
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th class="sortable">ID</th>
+        <th class="sortable">Name</th>
+        <th class="sortable">List</th>
+        <th class="sortable">Type</th>
+        <th class="sortable">Program</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>{{ entity_sdn_record.ID }}</td>
+        <td>{{ entity_sdn_record.Name }}</td>
+        <td>{{ entity_sdn_record.List }}</td>
+        <td>{{ entity_sdn_record.Type }}</td>
+        <td>{{ entity_sdn_record.Program }}</td>
+      </tr>
+    </tbody>
+  </table>
+  <br />
+  <h2>Identifications</h2>
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th class="sortable">Identification</th>
+        <th class="sortable">Value</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for item in entity_sdn_record.Identifications %} {% if item %} {% for
+      key, value in item.items() %} {% if key != 'ID' and value %}
+      <tr>
+        <td>{{ key }}</td>
+        <td>{{ value }}</td>
+      </tr>
+      {% endif %} {% endfor %} {% endif %} {% endfor %}
+    </tbody>
+  </table>
+  <br />
+  {% if entity_sdn_record.Aliases %}
+  <h2>Aliases</h2>
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th class="sortable">Alias Type</th>
+        <th class="sortable">Name</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for alias in entity_sdn_record.Aliases %}
+      <tr>
+        <td>
+          {% if alias['Alias Type'] %}{{ alias['Alias Type'] }}{% endif %}
+        </td>
+        <td>{% if alias['Name'] %}{{ alias['Name'] }}{% endif %}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  <br />
+  {% endif %} {% if entity_sdn_record.Addresses %}
+  <h2>Addresses</h2>
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th class="sortable">Address</th>
+        <th class="sortable">City</th>
+        <th class="sortable">State/Province</th>
+        <th class="sortable">Postal Code</th>
+        <th class="sortable">Country</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for address in entity_sdn_record.Addresses %}
+      <tr>
+        <td>{% if address['Address'] %}{{ address['Address'] }}{% endif %}</td>
+        <td>{% if address['City'] %}{{ address['City'] }}{% endif %}</td>
+        <td>
+          {% if address['State/Province'] %}{{ address['State/Province'] }}{%
+          endif %}
+        </td>
+        <td>
+          {% if address['Postal Code'] %}{{ address['Postal Code'] }}{% endif %}
+        </td>
+        <td>{% if address['Country'] %}{{ address['Country'] }}{% endif %}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  {% endif %} {% elif individual_non_sdn_record %}
+  <br />
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th class="sortable">ID</th>
+        <th class="sortable">Last Name</th>
+        <th class="sortable">First Name</th>
+        <th class="sortable">List</th>
+        <th class="sortable">Type</th>
+        <th class="sortable">Program</th>
+        <th class="sortable">Date of Birth</th>
+        <th class="sortable">Place of Birth</th>
+        <th class="sortable">Citizenship</th>
+        <th class="sortable">Nationality</th>
+        <th class="sortable">Remarks</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>{{ individual_non_sdn_record.ID }}</td>
+        <td>{{ individual_non_sdn_record['Last Name'] }}</td>
+        <td>{{ individual_non_sdn_record['First Name'] }}</td>
+        <td>{{ individual_non_sdn_record.List }}</td>
+        <td>{{ individual_non_sdn_record.Type }}</td>
+        <td>{{ individual_non_sdn_record.Program }}</td>
+        <td>
+          {%if individual_non_sdn_record['Date of Birth']%}{{
+          individual_non_sdn_record['Date of Birth']}}{%endif%}
+        </td>
+        <td>
+          {%if individual_non_sdn_record['Place of Birth']%}{{
+          individual_non_sdn_record['Place of Birth']}}{%endif%}
+        </td>
+        <td>
+          {%if
+          individual_non_sdn_record.Citizenship%}{{individual_non_sdn_record.Citizenship}}{%endif%}
+        </td>
+        <td>
+          {%if
+          individual_non_sdn_record.Nationality%}{{individual_non_sdn_record.Nationality}}{%endif%}
+        </td>
+        <td>
+          {%if
+          individual_non_sdn_record.Remarks%}{{individual_non_sdn_record.Remarks}}{%endif%}
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <br />
+  {% if individual_non_sdn_record.Addresses %}
+  <h2>Identifications</h2>
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th class="sortable">Gender</th>
+        <th class="sortable">Secondary Sanctions Risk</th>
+        <th class="sortable">Passport</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for identify in individual_non_sdn_record.Identifications %}
+      <tr>
+        <td>{%if identify['Gender']%}{{identify['Gender']}}{%endif%}</td>
+        <td>
+          {%if identify['Secondary sanctions risk']%}{{identify['Secondary
+          Sanctions Risk']}}{%endif%}
+        </td>
+        <td>{%if identify['Passport']%}{{identify['Passport']}}{%endif%}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  <br />
+  {% endif %} {% if individual_non_sdn_record.Aliases %}
+  <h2>Aliases</h2>
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th class="sortable">Alias Type</th>
+        <th class="sortable">Name</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for alias in individual_non_sdn_record.Aliases %}
+      <tr>
+        <td>{% if alias['Type'] %}{{ alias['Type'] }}{% endif %}</td>
+        <td>{% if alias['Name'] %}{{ alias['Name'] }}{% endif %}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  <br />
+  {% endif %} {% if individual_non_sdn_record.Addresses %}
+  <h2>Addresses</h2>
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th class="sortable">Address</th>
+        <th class="sortable">City</th>
+        <th class="sortable">State/Province</th>
+        <th class="sortable">Postal Code</th>
+        <th class="sortable">Country</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for address in individual_non_sdn_record.Addresses %}
+      <tr>
+        <td>{% if address['Address'] %}{{ address['Address'] }}{% endif %}</td>
+        <td>{% if address['City'] %}{{ address['City'] }}{% endif %}</td>
+        <td>
+          {% if address['State/ Province'] %}{{ address['State/ Province'] }}{%
+          endif %}
+        </td>
+        <td>
+          {% if address['Postal Code'] %}{{ address['Postal Code'] }}{% endif %}
+        </td>
+        <td>{% if address['Country'] %}{{ address['Country'] }}{% endif %}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  {% endif %} {% else %}
+  <p>No individual details found for ID {{ id }}</p>
+  {% endif %}
+</div>
+<script src="{{ url_for('static', filename='base.js') }}"></script>
+{% endblock %}
